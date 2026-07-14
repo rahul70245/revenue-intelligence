@@ -1,0 +1,12 @@
+{
+    "selected_tables": [
+        "calls",
+        "contacts",
+        "leads",
+        "order_items",
+        "orders",
+        "pii",
+        "products",
+        "order_history"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "selected_columns": {
+        "calls": [
+            "call_id",
+            "pii_id",
+            "call_date",
+            "duration",
+            "outcome",
+            "call_type",
+            "agent_id"
+        ],
+        "contacts": [
+            "contact_id",
+            "pii_id",
+            "profile"
+        ],
+        "leads": [
+            "lead_id",
+            "pii_id",
+            "owner",
+            "lead_source",
+            "assigned_date",
+            "follow_up_date"
+        ],
+        "order_items": [
+            "order_id",
+            "product_sku",
+            "quantity",
+            "item_price",
+            "line_item_total",
+            "exchange_rate"
+        ],
+        "orders": [
+            "order_id",
+            "pii_id",
+            "payment_mode",
+            "agent_id",
+            "channel",
+            "order_date",
+            "order_status"
+        ],
+        "order_history": [
+            "order_id",
+            "status",
+            "status_changed_time",
+            "status_changed_by"
+        ],
+        "pii": [
+            "pii_id",
+            "country",
+            "state",
+            "pincode"
+        ],
+        "products": [
+            "sku",
+            "bulk_sku",
+            "variation_value",
+            "variation_uom",
+            "itemQty"
+        ]
+    }
+}
