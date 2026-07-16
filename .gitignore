@@ -3,11 +3,12 @@
 .env
 
 # DATA
-data/*.parquet
-data/*.csv
+data/**/*.csv
+data/**/*.parquet
+
 !data/.gitkeep
-!data/raw_data_files/ .gitkeep
-!data/processed_data_files/ .gitkeep
+!data/raw_data_files/.gitkeep
+!data/processed_data_files/.gitkeep
 # gitkeep keeps empty folder
 
 
