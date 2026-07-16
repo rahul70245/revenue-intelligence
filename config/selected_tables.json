@@ -1,12 +1,16 @@
 {
     "selected_tables": [
-        "calls",
         "contacts",
         "leads",
         "order_items",
         "orders",
         "pii",
         "products",
-        "order_history"
+        "order_history",
+        "bulk",
+        "packaging_cost",
+        "packaging_master",
+        "product_cost",
+        "product_packaging"
     ]
 }

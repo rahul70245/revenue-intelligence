@@ -6,6 +6,8 @@
 data/*.parquet
 data/*.csv
 !data/.gitkeep
+!data/raw_data_files/ .gitkeep
+!data/processed_data_files/ .gitkeep
 # gitkeep keeps empty folder
 
 
